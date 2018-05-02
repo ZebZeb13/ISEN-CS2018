@@ -64,3 +64,6 @@ Remplir ce fichier avec le contenu exemple.
 `git commit -m "initial commit, project structure"` 
 `git remote add origin https://github.com/kall2sollies/ISEN-CS2018.git` 
 `git push origin master`  
+Ajouter un tag de version 0.1
+`git tag v0.1`  
+`git push origin v0.1` 
