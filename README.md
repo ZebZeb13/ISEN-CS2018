@@ -67,3 +67,16 @@ Remplir ce fichier avec le contenu exemple.
 Ajouter un tag de version 0.1
 `git tag v0.1`  
 `git push origin v0.1` 
+
+## Ajout d'exercices 'hors projet'
+Dans le projet Library :
+* Créer un dossier Lessons
+* Créer une classe 01_Types (fichier 01_Types.cs)
+
+Inclure toute la strucure d'une classe :
+* `using` (imports du java)
+* `namespace` (package du java)
+* `class`
+
+Coder la classe (voir code).  
+L'appeler dans le main().  
